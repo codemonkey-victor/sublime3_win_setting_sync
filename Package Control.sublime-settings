@@ -7,14 +7,15 @@
 		"Alignment",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"CSScomb",
 		"DocBlockr",
 		"Emmet",
-		"Git",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SVN",
-		"Theme - itg.flat"
+		"Theme - itg.flat",
+		"TortoiseGIT",
+		"TortoiseSVN"
 	]
 }
