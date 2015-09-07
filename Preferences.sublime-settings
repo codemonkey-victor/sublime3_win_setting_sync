@@ -1,6 +1,10 @@
 {
 	"ignored_packages":
 	[
-		"Vintage"
-	]
+		"Vintage",
+		"Markdown"
+	],
+
+	// If enabled, will highlight any line with a caret
+    "highlight_line": true,
 }
