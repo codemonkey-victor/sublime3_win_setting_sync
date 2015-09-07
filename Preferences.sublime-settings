@@ -4,7 +4,8 @@
 		"Vintage",
 		"Markdown"
 	],
-
-	// If enabled, will highlight any line with a caret
-    "highlight_line": true,
+	"font_size": 10,
+	"highlight_line": true,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme"
 }

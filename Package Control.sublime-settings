@@ -5,9 +5,11 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Autoprefixer",
 		"DocBlockr",
 		"Emmet",
 		"Package Control",
-		"SVN"
+		"SVN",
+		"Theme - Flatland"
 	]
 }
