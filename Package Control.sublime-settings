@@ -4,7 +4,9 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Emmet",
-		"Package Control"
+		"Package Control",
+		"SVN"
 	]
 }
