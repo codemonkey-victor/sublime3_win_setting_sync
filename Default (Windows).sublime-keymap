@@ -1,3 +1,10 @@
 [
-	{ "keys": ["ctrl+shift+a"], "command": "alignment" }
+	{ "keys": ["ctrl+shift+a"], "command": "alignment" },
+	{
+	    "keys": ["ctrl+alt+m"],
+	    "command": "file_header_add_header",
+	    "args":{
+	        "paths": []
+	    }
+	}
 ]

@@ -12,6 +12,7 @@
 		"Markdown",
 		"Vintage"
 	],
+	"index_files": false,
 	"itg_sidebar_tree_medium": true,
 	"itg_small_tabs": true,
 	"line_padding_bottom": 1,
