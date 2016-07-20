@@ -6,8 +6,9 @@
 	[
 		"Alignment",
 		"Autoprefixer",
+		"Better CoffeeScript",
 		"BracketHighlighter",
-		"CoffeeScriptHaml",
+		"Clipboard Manager",
 		"CSScomb",
 		"DocBlockr",
 		"Emmet",
@@ -15,12 +16,13 @@
 		"HTML-CSS-JS Prettify",
 		"JSX",
 		"LESS",
-		"Markdown Extended",
 		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SVN",
-		"Theme - itg.flat"
+		"Terminal",
+		"Theme - Piatto",
+		"Themes Menu Switcher"
 	]
 }

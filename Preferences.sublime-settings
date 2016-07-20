@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - itg.flat/itg.Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Piatto/Piatto Dark.tmTheme",
 	"font_face":
 	[
 		"console",
@@ -18,5 +18,5 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"tab_size": 4,
-	"theme": "itg.flat.dark.sublime-theme"
+	"theme": "Piatto Dark.sublime-theme"
 }
